@@ -7,6 +7,9 @@ Inputs:
 
 Outputs:
 1) Logistic regression model based on tf-idf features, that gives a prediction for each article regarding whether the article is appropriate for the topic.
--ngrams with the corresponding logit weights
--confidence values for each prediction
--test results from parameter tuning
+
+	-ngrams with the corresponding parameter weights
+
+	-confidence values for each prediction
+
+	-test results from parameter tuning
