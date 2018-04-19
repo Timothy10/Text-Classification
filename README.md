@@ -1,1 +1,1 @@
-this is a repo for my text classification algorithms
+This is a repo for my text classification algorithms
